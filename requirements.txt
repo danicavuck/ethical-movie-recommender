@@ -1,0 +1,3 @@
+install numpy , sklearn , levenshtein , pyqt5 , imdbpy , nltk
+
+run => python danicadb.py
