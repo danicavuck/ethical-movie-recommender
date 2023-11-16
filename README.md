@@ -1,5 +1,4 @@
 # Ethical Movie Recommender
-Ethical Movie Recommender
 ![](images/danicadb.png)
 
 __Ethical Movie Recommender__ is a _PyQt5_ desktop application written in _Python_ implementing two types of Recommender Systems.<br><br>
